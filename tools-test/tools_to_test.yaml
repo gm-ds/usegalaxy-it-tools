@@ -1,0 +1,22 @@
+---
+tools:
+  - name: fastqc
+    owner: devteam
+    revisions:
+    - 2c64fded1286 # 0.74+galaxy1
+    tool_shed_url: https://toolshed.g2.bx.psu.edu/
+  - name: bowtie2
+    owner: devteam
+    revisions:
+    - d5ceb9f3c25b # 2.5.3+galaxy1
+    tool_shed_url: https://toolshed.g2.bx.psu.edu/
+  - name: bowtie_wrappers
+    owner: devteam
+    revisions:
+    - b46e7d48076a # 1.2.0
+    tool_shed_url: https://toolshed.g2.bx.psu.edu/
+  - name: rgrnastar
+    owner: iuc
+    revisions:
+    - 53255f6eecfc # 2.7.11a+galaxy1
+    tool_shed_url: https://toolshed.g2.bx.psu.edu/
