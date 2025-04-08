@@ -1,0 +1,3 @@
+[submodule "usegalaxy-eu-tools"]
+	path = usegalaxy-eu-tools
+	url = git@github.com:usegalaxy-eu/usegalaxy-eu-tools.git
